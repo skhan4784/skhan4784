@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @skhan4784
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shoaib
+- 👀 I’m interested in Algorithms, Machine Learning and Blockchain
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on Machine Learning and Blockchain Projects
+- 📫 How to reach me skhan4784@gmail.com
 
 <!---
 skhan4784/skhan4784 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
