@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shoaib
 - 👀 I’m interested in Algorithms, Machine Learning and Blockchain
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Machine Learning and Blockchain Projects
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, and Data Science projects.
 - 📫 How to reach me skhan4784@gmail.com
 
 <!---
